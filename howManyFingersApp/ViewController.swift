@@ -9,13 +9,30 @@
 import UIKit
 
 class ViewController: UIViewController {
-
-    let randomNumber = arc4random_uniform(6)
+    
+    
+    @IBOutlet weak var fingerNum: UITextField!
     
     
     
+    @IBAction func submit(_ sender: Any) {
+        
+        let randomNum = arc4random_uniform(6)
+        
+        if fingerNum = randomNum {
+            
+            print = ("You're right")
+            
+        } else {
+            
+            print ("You're wrong")
+            
+        }
+        
+    }
     
     
+    @IBOutlet weak var rightOrWrong: UILabel!
     
     
     
