@@ -12,6 +12,7 @@
 		3D958B251DF4790000E9F2F1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D958B231DF4790000E9F2F1 /* Main.storyboard */; };
 		3D958B271DF4790000E9F2F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D958B261DF4790000E9F2F1 /* Assets.xcassets */; };
 		3D958B2A1DF4790000E9F2F1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D958B281DF4790000E9F2F1 /* LaunchScreen.storyboard */; };
+		3D958B321DF4817700E9F2F1 /* Human-Hands-Front-Back.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3D958B311DF4817700E9F2F1 /* Human-Hands-Front-Back.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3D958B261DF4790000E9F2F1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3D958B291DF4790000E9F2F1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3D958B2B1DF4790000E9F2F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D958B311DF4817700E9F2F1 /* Human-Hands-Front-Back.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Human-Hands-Front-Back.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				3D958B211DF4790000E9F2F1 /* ViewController.swift */,
 				3D958B231DF4790000E9F2F1 /* Main.storyboard */,
 				3D958B261DF4790000E9F2F1 /* Assets.xcassets */,
+				3D958B311DF4817700E9F2F1 /* Human-Hands-Front-Back.jpg */,
 				3D958B281DF4790000E9F2F1 /* LaunchScreen.storyboard */,
 				3D958B2B1DF4790000E9F2F1 /* Info.plist */,
 			);
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3D958B2A1DF4790000E9F2F1 /* LaunchScreen.storyboard in Resources */,
+				3D958B321DF4817700E9F2F1 /* Human-Hands-Front-Back.jpg in Resources */,
 				3D958B271DF4790000E9F2F1 /* Assets.xcassets in Resources */,
 				3D958B251DF4790000E9F2F1 /* Main.storyboard in Resources */,
 			);
